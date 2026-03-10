@@ -14,4 +14,4 @@ Ayrıca kendim için tuttuğum notları da burada paylaşıyorum, birisi için b
 
 ---
 
-Aynı yazıları biraz daha değiştirip, süsleyip web siteme de yayınlayacağım, ordan kronolojik olarak okumak daha rahat olur diye düşünüyorum. İsterseniz [furkanio.com](https://furkanio.com/) adresine bakabiliriniz.
+Aynı yazıları biraz daha değiştirip, süsleyip web sitemde de yayınlayacağım, ordan kronolojik olarak okumak daha rahat olur diye düşünüyorum. İsterseniz [furkanio.com](https://furkanio.com/) adresine bakabiliriniz.
